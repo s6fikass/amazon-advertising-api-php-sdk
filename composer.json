@@ -19,9 +19,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {
-            "AmazonAdvertisingApi\\": "AmazonAdvertisingApi/"
-        }
+        "psr-0": { "AmazonAdvertisingApi\\": "" }
     },
     "require": {
         "ext-curl": "*",
